@@ -1,6 +1,5 @@
 Виконав : Данило Лісняк ПД43
 
-![image10](https://github.com/KrakenShell/list-employees/assets/51737457/0a908e08-4209-4e58-8d20-65d066e5189c)
 
 ![image9](https://github.com/KrakenShell/list-employees/assets/51737457/13b20372-9767-4c2a-85de-75fa80a76e4a)
 
@@ -9,6 +8,8 @@
 ![image7](https://github.com/KrakenShell/list-employees/assets/51737457/26e52864-2b0d-435d-ad67-a0c2c24709ea)
 
 ![image6](https://github.com/KrakenShell/list-employees/assets/51737457/081231fb-c038-4987-94bf-2c601cb6bf67)
+
+![image8](https://github.com/KrakenShell/list-employees/assets/51737457/ad022886-7deb-43fe-acb5-17d3136f494c)
 
 ![image5](https://github.com/KrakenShell/list-employees/assets/51737457/40573dec-77b3-40c6-a9a7-4482ea6ca65e)
 
