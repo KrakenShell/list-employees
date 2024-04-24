@@ -7,6 +7,8 @@
 
 ![image7](https://github.com/KrakenShell/list-employees/assets/51737457/26e52864-2b0d-435d-ad67-a0c2c24709ea)
 
+![image8](https://github.com/KrakenShell/list-employees/assets/51737457/ad022886-7deb-43fe-acb5-17d3136f494c)
+
 ![image6](https://github.com/KrakenShell/list-employees/assets/51737457/081231fb-c038-4987-94bf-2c601cb6bf67)
 
 ![image8](https://github.com/KrakenShell/list-employees/assets/51737457/ad022886-7deb-43fe-acb5-17d3136f494c)
